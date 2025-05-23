@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm **P Sravani**, a final-year Computer Science and Engineering student at **Saveetha School of Engineering**, Chennai. I'm passionate about building creative, user-friendly applications and love turning ideas into reality through code and design.
+Hi there! I'm **M SWAMY VIVEKANANDA**, a final-year Computer Science and Engineering student at **Saveetha School of Engineering**, Chennai. I'm passionate about building creative, user-friendly applications and love turning ideas into reality through code and design.
 
 🔧 I specialize in **full-stack development** and **mobile app development**, and I enjoy working on platforms that solve real-world problems.
 
