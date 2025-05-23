@@ -29,11 +29,11 @@ Hi there! I'm **M SWAMY VIVEKANANDA**, a final-year Computer Science and Enginee
 ---
 
 ## 📫 Let's Connect:
-- 💌 Email: sravanips23@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/psravani)  
-- 💻 Portfolio (coming soon...)
+- 💌 Email: vivekmakkina3@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/makkinaswamyvivekananda/)  
+- 💻 Portfolio (https://vivekportfolio.infy.uk/)
 
 ---
 
-> *“The best way to learn is by doing – and I'm always building something new.”*
+> **“The best way to learn is by doing – and I'm always building something new.”**
 
